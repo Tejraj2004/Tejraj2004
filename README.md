@@ -4,7 +4,7 @@
 
 💡 I'm currently diving deeper into **Data Structures & Algorithms** and **Competitive Programming** to sharpen my problem-solving skills.
  
-🤝 Always open to collaboration, contributions, and meaningful tech discussions.
+🤝 Always open to collaboration, contributions, and tech discussions.
 
 🌐 Let's connect and build something amazing together!
 
